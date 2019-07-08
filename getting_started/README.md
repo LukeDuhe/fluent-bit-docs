@@ -1,6 +1,6 @@
 # Getting Started
 
-[Fluent Bit](http://fluentbit.io) is a straightforward tool and to get started with it we need to understand it basic workflow. Consider the following diagram a global overview of it:
+[Fluent Bit](http://fluentbit.io) is a straightforward tool and to get started with it we need to understand its basic workflow. Consider the following diagram a global overview of it:
 
 ![Fluent Bit Workflow](../.gitbook/assets/logging_pipeline.png)
 
